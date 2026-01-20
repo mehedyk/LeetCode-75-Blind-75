@@ -2,6 +2,8 @@
 
 A curated list of 75 essential LeetCode problems for coding interview preparation. This repository contains my solutions to these problems.
 
+**Author**: [@mehedyk](https://github.com/mehedyk)
+
 ## Progress Tracker
 
 | # | Problem | File | Status |
